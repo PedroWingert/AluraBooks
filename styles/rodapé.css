@@ -1,0 +1,13 @@
+hr {
+    margin: 0
+}
+
+.rodapé {
+    background: var(--branco);
+    padding: 1em;
+}
+
+.titulo__rodapé {
+    text-align: center;
+    
+}
